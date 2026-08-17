@@ -33,7 +33,7 @@ Landing page para una tienda deportiva online, construida con **HTML, CSS y Java
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nexosport.git
+   https://github.com/LimonAv/Hackaton-1.git
    ```
 2. Abre `index.html` directamente en tu navegador, o sirve la carpeta con una extensión como **Live Server** (VS Code) para recarga automática.
 3. No requiere instalación de dependencias: Bootstrap y los íconos se cargan vía CDN.
