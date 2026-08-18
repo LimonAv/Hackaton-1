@@ -9,7 +9,7 @@ Landing page para una tienda deportiva online, construida con **HTML, CSS y Java
 
 ## ✨ Características
 
-- **Navbar responsive** con menú colapsable y ícono de carrito con contador animado
+- **Navbar responsive** con menú colapsable e ícono de carrito con contador animado
 - **Hero banner** de ancho completo con imagen de fondo, overlay para contraste y panel de vidrio (glassmorphism)
 - **Buscador estético** de productos con estilo pill/glass
 - **Carrusel de productos destacados** (Bootstrap Carousel) con cards por producto
