@@ -1,5 +1,10 @@
 # 🏀 NexoSport
 
+**Colaboradores:**
+- José Manuel Limón Ávila
+- Calderón Santana Enrique
+- Alfonso Plaza Esquivel
+
 Landing page para una tienda deportiva online, construida con **HTML, CSS y JavaScript vanilla**, apoyada en **Bootstrap 5** para el layout y componentes responsivos.
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-7952B3?logo=bootstrap&logoColor=white)
@@ -21,21 +26,24 @@ Landing page para una tienda deportiva online, construida con **HTML, CSS y Java
 
 ## 🗂️ Estructura del proyecto
 
-```
+```text
 ├── index.html          # Estructura principal de la página
-├── styles.css           # Estilos, glassmorphism, animaciones y pelotas de fondo
-├── script.js             # Lógica del carrito y contador animado
-├── images/                # Imágenes del sitio (hero, productos, etc.)
+├── styles.css          # Estilos, glassmorphism, animaciones y pelotas de fondo
+├── script.js           # Lógica del carrito y contador animado
+├── images/             # Imágenes del sitio (hero, productos, etc.)
 └── README.md
 ```
 
 ## 🚀 Cómo usarlo
 
 1. Clona el repositorio:
-   ```bash
-   https://github.com/LimonAv/Hackaton-1.git
-   ```
+
+```bash
+git clone https://github.com/LimonAv/Hackaton-1.git
+```
+
 2. Abre `index.html` directamente en tu navegador, o sirve la carpeta con una extensión como **Live Server** (VS Code) para recarga automática.
+
 3. No requiere instalación de dependencias: Bootstrap y los íconos se cargan vía CDN.
 
 ## 🛠️ Tecnologías utilizadas
