@@ -15,7 +15,7 @@ const cartIcon = document.getElementById('cart-icon');
 
 // Selecciona TODOS los botones "Agregar al carrito" de la página
 document.querySelectorAll('.add-to-cart').forEach(button => {
-  button.addEventListener('click', () => {
+    button.addEventListener('click', () => {
     // 1. Incrementa el contador
     cartCount++;
     cartCountEl.textContent = cartCount;
@@ -26,7 +26,7 @@ document.querySelectorAll('.add-to-cart').forEach(button => {
     // 3. Quita la clase después de que termine la animación (0.4s)
     //    para que pueda volver a activarse la próxima vez
     setTimeout(() => {
-      cartIcon.classList.remove('cart-bounce');
+       cartIcon.classList.remove('cart-bounce');
     }, 400);
-  });
+    });
 });
